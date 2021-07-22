@@ -387,6 +387,14 @@ p a {
   text-transform: uppercase;
 }
 
+body {
+   background-image: url("../images/gallery/tech_expo_logo.png");
+   background-repeat: no-repeat;
+   background-position: 40px 40px;
+   background-size: 100px 100px;
+}
+
+
 /*
  * =============================
  * Navigation
